@@ -1,1 +1,1 @@
-# Student-Performance-MultiL-nearRegression
+# Student-Performance-MultiLinearRegression
